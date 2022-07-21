@@ -19,3 +19,23 @@ No histograma usado contém uma quebra de 20 barras que traz um detalhamento em 
 - Aproximadamente 2000 cursos foram  realizados em um único dia
 - Aproximadamente  250 cursos duraram entre 50 e 100 dias
  - E alguns cursos levaram mais de 500 dias para a conclusão.
+
+
+
+ ###  3- Análise estatística sobre a duração dos cursos em dias: 
+ 
+- ### Média 
+Obtive a média de duração em dias: 47.83649. Arredondando esse número, tenho uma média de 48 dias para os alunos completarem um curso nessa empresa, a partir da amostra do banco de dados. 
+
+- ### Mediana
+Obtive uma mediana de 8 para duração de dias um número que combina o histograma e corrobora com as informações e análises mais robustas.
+
+- ### Sumario estatistico
+Com sumarização estatisticas além dos dados de media e mediana consegui observar o número interessantes como: 
+
+- 366 é o tamanho da amostra do banco de dados 
+- 264 são cursos únicos
+- 484 são alunos únicos  
+- 60.13% das pessoas matriculadas não concluiram os cursos por desistencia ou concluiram após o envio da amostra 
+
+
