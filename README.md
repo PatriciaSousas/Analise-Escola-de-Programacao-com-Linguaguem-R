@@ -1,6 +1,4 @@
-## Análise para uma escola de programação utillizando a linguaguem de programação R 
-
-### Conclusão das análises:
+## Conclusão das análises:
 
 
  ###  1 -Duração que cada aluno leva para terminar um curso:
