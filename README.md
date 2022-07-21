@@ -24,13 +24,13 @@ No histograma usado contém uma quebra de 20 barras que traz um detalhamento em 
 
  ###  3- Análise estatística sobre a duração dos cursos em dias: 
  
-- ### Média 
+- #### Média 
 Obtive a média de duração em dias: 47.83649. Arredondando esse número, tenho uma média de 48 dias para os alunos completarem um curso nessa empresa, a partir da amostra do banco de dados. 
 
-- ### Mediana
+- #### Mediana
 Obtive uma mediana de 8 para duração de dias um número que combina o histograma e corrobora com as informações e análises mais robustas.
 
-- ### Sumario estatistico
+- #### Sumario estatistico
 Com sumarização estatisticas além dos dados de media e mediana consegui observar o número interessantes como: 
 
 - 366 é o tamanho da amostra do banco de dados 
