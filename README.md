@@ -3,7 +3,7 @@
 
  ###  1- Quais videos foram os mais assistidos e quais cursos deve o maior número de matriculas:
  
-Tem algumas hipoteses do porquê isso pode acontecer, como o mercado estar exigindo determinada qualificação, adquirida por meio desses cursos, ou o professor possuir ótima didática, que conquista os alunos e faz com que eles indiquem para seus amigos, e por aí vai
+Tenho algumas hipoteses do porquê isso pode acontecer, como o mercado estar exigindo determinada qualificação, adquirida por meio desses cursos, ou o professor possuir ótima didática, que conquista os alunos e faz com que eles indiquem para seus amigos, e por aí vai
 
 - Videos mais assistidos: 1815 e 198
 - Cursos mais cursados: 88, 31, 78 
@@ -31,7 +31,7 @@ Obtive a média de duração em dias: 47.83649. Arredondando esse número, tenho
 Obtive uma mediana de 8 para duração de dias um número que combina o histograma e corrobora com as informações e análises mais robustas.
 
 - #### Sumario estatistico
-Com sumarização estatisticas além dos dados de media e mediana consegui observar esses números interessantes como: 
+Com sumarização estatisticas além dos dados de media e mediana consegui observar números interessantes como: 
 
 - 366 é o tamanho da amostra do banco de dados 
 - 264 são cursos únicos
