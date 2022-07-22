@@ -44,11 +44,22 @@ Com sumarização estatisticas além dos dados de media e mediana consegui obser
  
  - #### A ideia é agrupa os vídeos que possuem maior probabilidade de conter elementos comuns que os tornem populares.
  
- Como eu não tenho a populariedade dos cursos e o tempo que eles levam para serem concluidos em um mesmo banco  de dados, fiz um merge com esses bancos para em seguida calcular  a média de todas as matrículas do curso e coloquei no em um vetor, sendo mais facil criar o sumario estatistico para esses bancos 
+ - Como eu não tenho a populariedade dos cursos e o tempo que eles levam para serem concluidos em um mesmo banco  de dados, fiz um merge com esses bancos para em seguida calcular  a média de todas as matrículas do curso e coloquei no em um vetor, sendo mais facil criar o sumario estatistico para esses bancos 
 
  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
  ###  5- Modelos Preditivos 
+ 
+ - #### Inicio com estudo de correlação para informar à empresa se existe relação entre o número de matrículas de um curso e o tempo médio de duração até sua conclusão. 
+ 
+ - Há casos discrepantes (outliers), como o curso que dura em torno de 100 dias, sendo também o mais popular da amostra, com mais de 1500 matrículas. Há outros cursos populares, com o número de matrículas entre 500 e 1000, que demoram de 50 a 100 dias até a conclusão. A maior concentração de cursos leva menos de 1 dia ou pouquíssimos dias — entre 0 e 20 — até sua conclusão.
+ 
+ - Os cursos com duração média entre 48 e 50 dias são os mais populares. Eles possuem um número maior de matrículas.
+ 
+ - A partir disto, a empresa pode realizar uma análise qualitativa de forma direcionada, economizando custos, tempo de funcionários e esforço, pois trata-se de uma informação bastante relevante.
+
+ 
+ 
 
 
